@@ -1,1 +1,1 @@
-# Stock-Management-
+# Stock-Management-Python
